@@ -1,0 +1,19 @@
+---
+title: Fast inference of network epidemics using surrogate models
+authors:
+  - name: David Wu
+    affiliation: Department of Econometrics and Business Statistics, Monash University
+    roles: writing
+    corresponding: true
+  - name: Vinod Suresh
+    affiliation:
+        - Department of Engineering Science, University of Auckland
+        - Auckland Bioengineering Institute
+  - name: Oliver J. Maclaren
+    affiliation: Department of Engineering Science, University of Auckland
+draft: true
+bibliography: references.bib
+---
+
+## Introduction
+
